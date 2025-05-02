@@ -16,7 +16,9 @@
 ![return764's GitHub Stats](https://github-readme-stats.vercel.app/api?username=return764&show_icons=true&theme=default&hide_title=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=return764&layout=compact)
 
-## Top Repositories
+![return764's GitHub Chart](https://ghchart.rshah.org/return764)
+
+## 📂 Top Repositories
 
 <a href="https://github.com/return764/react-native-mqtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=return764&repo=react-native-mqtt" />
