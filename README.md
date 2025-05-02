@@ -18,10 +18,10 @@
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/react-native-mqtt">
+<a href="https://github.com/return764/react-native-mqtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=return764&repo=react-native-mqtt" />
 </a>
-<a href="https://github.com/anuraghazra/tauri-plugin-sqlite">
+<a href="https://github.com/return764/tauri-plugin-sqlite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=return764&repo=tauri-plugin-sqlite" />
 </a>
 
